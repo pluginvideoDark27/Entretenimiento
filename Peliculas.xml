@@ -5,7 +5,7 @@
 <name>[COLOR green]Comedia[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Comedia.xml</externallink>
 </channel>
 </channels>
 
@@ -15,7 +15,7 @@
 <name>[COLOR green]Acción[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Accion.xml</externallink>
 </channel>
 </channels>
 
@@ -25,7 +25,7 @@
 <name>[COLOR green]Drama[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Drama.xml</externallink>
 </channel>
 </channels>
 
@@ -35,7 +35,7 @@
 <name>[COLOR green]Ciencia Ficción[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/CienciaFiccion.xml</externallink>
 </channel>
 </channels>
 
@@ -45,7 +45,7 @@
 <name>[COLOR green]Miedo o Suspense[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Miedo.xml</externallink>
 </channel>
 </channels>
 
@@ -55,6 +55,6 @@
 <name>[COLOR green]Infantil[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Infantil.xml</externallink>
 </channel>
 </channels>

@@ -1,251 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channel>
-<name>[COLOR orange]Drama[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name><<<<<<<<<Drama>>>>>>>></name>
+<thumbnail>https://cdn.icon-icons.com/icons2/515/PNG/256/Drama-Movies_icon-icons.com_51055.png</thumbnail>
+<fanart>https://st3.depositphotos.com/1028367/17335/v/1600/depositphotos_173354684-stock-illustration-movie-genre-icons.jpg</fanart>
 <items>
 
+
+<item><title>[COLOR=orange]Drama[/COLOR]</title>  
+<urlsolve>http://about.me/adryan</urlsolve></item>
+
+
+
 <item>
-<title>[COLOR blue][/COLOR]</title>
+<title>[COLOR yellow]La cordillera[/COLOR]</title>
+<fanart>https://infodelespectaculo.com/wp-content/uploads/2017/08/LaCordillera-1.jpg</fanart>
+<thumbnail>https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/la-cordillera/128566702-5-esl-ES/La-cordillera.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/embed/aqmapsrdtlbespql/La_cordilleralt_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]La Sombra de la Ley[/COLOR]</title>
+<fanart>https://www.elboletin.com/fotos/1/90111_sombreley.jpg</fanart>
+<thumbnail>http://intlportal2.s3.foxfilm.com/intlportal2/5baa18154343b.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/embed/kkmeoafmecoatabq/S0mbraL3yHDR_Castellano_avi_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]El Banquero De La Recistencia[/COLOR]</title>
+<fanart>https://www.martincid.com/wp-content/uploads/2018/09/eyspDRnUmkzAOm3FxRJfTxhaOj-696x1044.jpg</fanart>
+<thumbnail>http://mega-mkv.com/wp-content/uploads/2018/09/bankier.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/embed/rrmmoddknmqkclne/A4F65085_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]PAJAROS_DE_PAPEL[/COLOR]</title>
+<fanart>https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2018/04/04/17/117131575.jpg</fanart>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/72/95/02/19212987.jpg</thumbnail>
+<urlsolve>https://streamango.com/f/mrkkkfotbnmacsln/PAJAROS_DE_PAPEL_DVDRip_2_mkv_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR White]Ejecución Inminente Español[/COLOR]</title>
+<fanart>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2017/05/14/14/86482492.jpg</fanart>
+<thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2017/05/14/14/86482492.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/embed/atmtompatpmosebq/Ejecuci_n_inminente_1999_Castellano_H_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR violet]Bohemian_rhapsody[/COLOR]</title>
+<fanart>https://www.philly.com/resizer/8szhFDbsur50cOalw1_qkmLEyM0=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/HC6QVOMY5VGJPEIUMHWQ3HZA4Q.jpg</fanart>
+<thumbnail>http://www.capitolgranvia.com/content/imgsxml/cartelera/cartelbohemian.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/msocdokbrdftmaeq/Bohemian_rhapsody_2018_1080p-dual-cast-cinecalidad_to_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR blue]La Forma Del Agua[/COLOR]</title>
+<fanart>http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_19431_1.jpg</fanart>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/18/01/09/10/10/3484018.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/deldtldqbnoftabq/La_forma_del_agua_-_Peliculas_y_series_online_mp4</urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR blue]Entrenador Carter Español[/COLOR]</title>
+<fanart>https://c8.alamy.com/compes/k38da6/coach-carter-fecha-2005-k38da6.jpg</fanart>
+<thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2016/07/29/12/58322665.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/embed/mflnqonqbrntfotl/345TR43N4D0RC64RT35R1280X720_mp4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 
 <item>
-<title>[COLOR blue][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 
 <item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR blue][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR] Fox</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>

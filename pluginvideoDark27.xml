@@ -1,50 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+<info>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva. Y también las mejores recetas de cocina</info>
+<channels_info>
+<title>[COLOR dark red]plugin.video.Dark-side[/COLOR]</title>
+<genre>ONLINE</genre>
+<thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
+<fanart>https://cdn.atomix.vg/wp-content/uploads/2016/11/darth-vader-imagenes.jpg</fanart>
+<date>23/02/2019</date>
+<credits>Gracias a plugin.video.Dark-side</credits>
+</channels_info>
+<channels>
 
-<channels> 
+ 
 <channel>
-<name>[COLOR orange]Películas[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<info>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva. Y también las mejores recetas de cocina</info>
+<name>[COLOR black][/COLOR][COLOR blue]                                            plugin.video.Dark-side version 0.2.7[/COLOR]</name>
+<thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
+<fanart>https://cdn.atomix.vg/wp-content/uploads/2016/11/darth-vader-imagenes.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com</externallink>
+</channel>
+
+ 
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR red][/COLOR]Dark-side 0.2.7[COLOR dark red]                                            Update:[/COLOR][COLOR red] 23[/COLOR]-Febrero-2019[COLOR dark blue][COLOR  black][/COLOR]</name>
+<description>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva. Y también las mejores recetas de cocina</description>
+<thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
+<fanart>https://cdn.atomix.vg/wp-content/uploads/2016/11/darth-vader-imagenes.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com</externallink>
+</channel>
+</channels>
+
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR cyan][COLOR  yellow]•  [/COLOR] Películas [/COLOR]</name>
+<description>En este espacio podras disfrutar de peliculas.</description>
+<thumbnail>http://hotter.one/images/kamera.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
+<link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Peliculas.xml</externallink>
 </channel>
 </channels>
 
 
-<channels> 
+<channels>
+ 
 <channel>
-<name>[COLOR orange]Películas Idioma Original[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
-</channel>
-</channels>
-
-
-<channels> 
-<channel>
-<name>[COLOR orange]Series[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>[COLOR brown][COLOR  red]•  [/COLOR] Series Español[/COLOR]</name>
+<description>En este espacio podras disfrutar de series.</description>
+<thumbnail>http://hotter.one/images/kamera.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
+<link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Series.xml</externallink>
 </channel>
 </channels>
 
 
-<channels> 
+<channels>
+ 
 <channel>
-<name>[COLOR orange]Canales Tv[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
+<name>[COLOR white][COLOR  yellow]•  [/COLOR] Cocina[/COLOR]</name>
+<description>En este espacio podras disfrutar de grandes recetas de cocina.</description>
+<thumbnail>https://image.flaticon.com/icons/png/512/410/410375.png</thumbnail>
+<fanart>https://st2.depositphotos.com/6628792/9629/v/950/depositphotos_96299852-stock-illustration-kitchen-chef-icon.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/KispTmz7</externallink>
 </channel>
 </channels>
 
-
-<channels> 
+<channels>
+ 
 <channel>
-<name>[COLOR orange]Canal Cocina[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
+<name>[COLOR cyan][COLOR  yellow]•  [/COLOR] canales tv[/COLOR]</name>
+<description>En este espacio podras disfrutar de peliculas.</description>
+<thumbnail>http://hotter.one/images/kamera.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/LVSYR3qC</externallink>
 </channel>
 </channels>

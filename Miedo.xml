@@ -1,62 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channel>
-<name>[COLOR orange]Miedo o Suspense[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>[COLOR red]Películas De Miedo[/COLOR]</name>
+<thumbnail>https://st-listas.20minutos.es/images/2015-01/392023/list_640px.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2ZNjNiGuT8Q/maxresdefault.jpg</fanart>
 <items>
 
+
+<item><title>[COLOR red]Películas De Miedo[/COLOR]</title>  
+<link>http://about.me/adryan</link></item>
+
+
+
 <item>
-<title>[COLOR red][/COLOR]</title>
+<info></info>
+<title>[COLOR orange]El Secreto de Marrowbone[/COLOR]</title>
+<fanart>http://www.diariodevenusville.com/wp-content/uploads/2017/10/EL-SECRETO-DE-MARROWBONE-caratula-900x444.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81gximIaX8L._SY445_.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/f/ocssmnrempfmccdn/Marrowbone_2017_1080p-dual-cast-cinecalidad_to_mp4</urlsolve>
+</item>
+
+<item>
+<info></info>
+<title>[COLOR orange]La Piel Fria[/COLOR]</title>
+<fanart>https://cameo.es/media/catalog/product/8/4/8436564164025.jpg</fanart>
+<thumbnail>https://cameo.es/media/catalog/product/cache/1/small_image/275x400/9df78eab33525d08d6e5fb8d27136e95/8/4/8436564164025.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/f/rkqkrqaqctomcsdk/Cold_skin_2017_1080p-dual-cast-cinecalidad_to_mp4</urlsolve>
+</item>
+
+<item>
+<info></info>
+<title>[COLOR orange]La Monja[/COLOR]</title>
+<fanart>http://es.web.img2.acsta.net/pictures/18/08/14/15/35/4396669.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/7Gcc2XNLHpk/mqdefault.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/embed/aknemqapqnrkdkcf/A2C8DA46_mp4</urlsolve>
+</item>
+
+<item>
+<info></info>
+<title>[COLOR orange][/COLOR]</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 
 <item>
-<title>[COLOR red][/COLOR]</title>
+<info></info>
+<title>[COLOR orange][/COLOR]</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 
 <item>
-<title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR red][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR red][/COLOR]</title>
+<info></info>
+<title>[COLOR orange][/COLOR]</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>

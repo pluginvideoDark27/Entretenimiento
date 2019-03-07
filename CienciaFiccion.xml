@@ -1,231 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channel>
-<name>[COLOR orange]Ciencia Ficción[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name><<<<<<<<<Ciencia Ficción>>>>>>>></name>
+<thumbnail>https://cdn.icon-icons.com/icons2/37/PNG/512/sciencefiction_3859.png</thumbnail>
+<fanart>https://previews.123rf.com/images/pedrolieb/pedrolieb1210/pedrolieb121000029/16084919-clap-cine-de-g%C3%A9nero-de-cine-de-ciencia-ficci%C3%B3n-ilustraci%C3%B3n-clapperboard-texto-.jpg</fanart>
 <items>
 
 
+<item><title>[COLOR=black] <<[/COLOR][COLOR=orange] Ciencia Ficción[/COLOR][COLOR=black]>>[/COLOR]</title>  
+<urlsolve>http://about.me/adryan</urlsolve></item>
+
+
 <item>
-<title>[COLOR orange]Star_Wars1[/COLOR]</title>
+<title>[COLOR navy blue]La Momia[/COLOR]</title>
+<fanart>https://www.bolsamania.com/cine/wp-content/uploads/2017/08/85-2.jpg</fanart>
+<thumbnail>https://mundiseries.com/css/images/portadas/peliculas/238.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/dmfnoondtlbrbmne/LA_MOMIA_cv2345759es_mp4</urlsolve>
+<weblink>https://streamango.com/embed/dmfnoondtlbrbmne/LA_MOMIA_cv2345759es_mp4</weblink>
+</item>
+
+<item>
+<title>[COLOR pink]Alicia en el país de las maravillas[/COLOR]</title>
+<fanart>https://frasesdelavida.com/wp-content/uploads/2017/10/Frases-de-Alicia-en-el-Pai%CC%81s-de-las-Maravillas-1.jpg</fanart>
+<thumbnail>https://imagenes.montevideo.com.uy/imgnoticias/201605/_W933_80/564183.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/mmfapkbtmtlnmncm/eax605313662</urlsolve>
+<weblink>https://streamango.com/embed/mmfapkbtmtlnmncm/eax605313662</weblink>
+</item>
+
+<item>
+<info></info>
+<title>[COLOR gray]Parque jurasico[/COLOR]</title>
+<fanart>https://www.vivanicaragua.com.ni/contenido/archivos/2018/05/jurassic-park.jpg</fanart>
+<thumbnail>https://cuentoexperiencias.files.wordpress.com/2014/12/jurassic_park.jpg</thumbnail>
+<urlsolve>https://streamcherry.com/f/tsrsmdcqrtntcaos/E4E7278D_mp4</urlsolve>
+</item>
+
+<item>
+<info></info>
+<title>[COLOR gray][/COLOR]</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars2[/COLOR]</title>
+<info></info>
+<title>[COLOR gray][/COLOR]</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars3[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve>https://streamcherry.com/embed/attplmbfnlrnmorq/Star_Wars3_1080_Cast_mp4</urlsolve>
+<info></info>
+<title>[COLOR gray]Jurassic World[/COLOR]</title>
+<fanart>https://eightymphmom.com/wp-content/uploads/2015/10/JW-HomeEnt-Announcement.png</fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/live-action/images/9/97/Jurassic_World_2015_DVD_Cover.PNG</thumbnail>
+<urlsolve>https://streamcherry.com/f/akefopstdfetmcbo/C1C62B7B_mp4</urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars4[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve>https://streamcherry.com/embed/acfpblrkmabqtqlp/Star_Wars4_1080_Cast_mp4</urlsolve>
+<title>[COLOR gray]Jurassic World el Reino caido[/COLOR]</title>
+<fanart>https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=nBc4FrNMPeNDVHWSQAh1Vs$daE2N3K4ZzOUsqbU5sYstXFUUDBdD7TOSUriGWNvc6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg</fanart>
+<thumbnail>http://www.burjassot.org/wp-content/uploads/2018/06/jurasic-world-el-reino-caido-grande.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/rcnbtpmcedaopfeq/Jurassic_World_el_Reino_caidoM1080_www_descargas2020_com_mp4</urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars5[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
+<title>[COLOR blue]Megalodon 5.1 Castellano-2018[/COLOR]</title>
+<fanart>http://www.iralcine.com/img-peliculas/pelicula-megalodon.jpg</fanart>
+<thumbnail>http://www.iralcine.com/img-peliculas/pelicula-megalodon.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/nsneddppkbpbceak/Megalodon_BluRay_Rip_AC3_5_1_Castellano_2018_www_descargas2020_com_avi_mp4</urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars6[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve>https://streamcherry.com/embed/lnkrcsknefacpsds/Star_Wars6_1080_Cast_mp4</urlsolve>
+<title>[COLOR yellow]Pacific Rim Insurreccion[/COLOR]</title>
+<fanart>https://3.bp.blogspot.com/-eTwkgKyUjus/WrgzEbMOtzI/AAAAAAAAEFM/YaBjI23SDdsmmbvgtoIEY_QPdmnZegqQwCLcBGAs/s1600/pacific_rim_insurreccion.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/pacific_rim_uprising-309443835-large.jpg</thumbnail>
+<urlsolve>https://streamango.com/f/dcnbcbafcbnsqtmk/Pacific_Rim_Insurreccion_BluRay_720p_X264_MKV_AC3_2_0_Castellano_2018_mkv_mp4</urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars7[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
+<title>[COLOR orange]Alpha Español[/COLOR]</title>
+<fanart>https://www.heraldo.es/ocio/sites/default/files/alpha.jpg</fanart>
+<thumbnailhttps://bucket.glanacion.com/anexos/fotos/cartelera/alfa-3d-c_8865gr.jpg></thumbnail>
+<urlsolve>https://streamcherry.com/embed/roarppnkdkebspmp/Alpha_V_Theatrical_BluRay_Rip_AC3_5_1_Castellano_2018_www_pctnew_com_avi_mp4</urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange]Star_Wars8[/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve>https://streamcherry.com/embed/rbnkdtoabkqtcebr/Star_Wars8_1080_Cast_mp4</urlsolve>
+<title>[COLOR violet]Venom Español 1080p[/COLOR]</title>
+<fanart>https://vignette.wikia.nocookie.net/doblaje/images/0/06/IMG_20180424_002333.jpg/revision/latest?cb=20180925154241&path-prefix=es</fanart>
+<thumbnail>https://thegamersports.mundodeportivo.com/wp-content/uploads/2018/10/Venom-poster.jpg</thumbnail>
+<urlsolve>https://streamango.com/embed/obflledbkeqscbpn/V3mon_2018_1080p_ESP_mkv_mp4</urlsolve>
 </item>
 
 <item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR orange][/COLOR]</title>
+<title>[COLOR yellow]Star Wars 5[/COLOR]</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>

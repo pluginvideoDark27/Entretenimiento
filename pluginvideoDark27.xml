@@ -5,7 +5,7 @@
 <name>[COLOR orange]Películas[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Peliculas.xml</externallink>
 </channel>
 </channels>
 
@@ -25,7 +25,7 @@
 <name>[COLOR orange]Series[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Series.xml</externallink>
 </channel>
 </channels>
 

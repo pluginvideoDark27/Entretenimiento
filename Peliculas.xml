@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<channels>
+<channel>
+<name>[COLOR yellowgreen]SAGAS[/COLOR]</name>
+<thumbnail>https://images.evisos.com.ar/2014/05/26/peliculas-3d-y-2d-sagas-series-estrenos-envio_822eb6b4e_3.jpg</thumbnail>
+<fanart>https://images.evisos.com.ar/2014/05/26/peliculas-3d-y-2d-sagas-series-estrenos-envio_822eb6b4e_3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Sagas.xml</externallink>
+</channel>
+</channels>
+
+
 <channels> 
 <channel>
 <name>[COLOR green]Comedia[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Comedia.xml</externallink>
 </channel>
 </channels>
@@ -13,8 +25,8 @@
 <channels> 
 <channel>
 <name>[COLOR green]Acción[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Accion.xml</externallink>
 </channel>
 </channels>
@@ -23,8 +35,8 @@
 <channels> 
 <channel>
 <name>[COLOR green]Drama[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Drama.xml</externallink>
 </channel>
 </channels>
@@ -33,8 +45,8 @@
 <channels> 
 <channel>
 <name>[COLOR green]Ciencia Ficción[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.flaticon.com/icons/png/512/37/37895.png</thumbnail>
+<fanart>https://previews.123rf.com/images/jemastock/jemastock1610/jemastock161003770/63998264-rollo-de-pel%C3%ADcula-y-palomitas-de-ma%C3%ADz-icono-pel%C3%ADcula-de-cine-de-pel%C3%ADculas-de-v%C3%ADdeo-y-el-tema-de-entretenimient.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/CienciaFiccion.xml</externallink>
 </channel>
 </channels>
@@ -43,8 +55,9 @@
 <channels> 
 <channel>
 <name>[COLOR green]Miedo o Suspense[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://st-listas.20minutos.es/images/2015-01/392023/list_640px.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2ZNjNiGuT8Q/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Miedo.xml</externallink>
 </channel>
 </channels>
@@ -53,8 +66,8 @@
 <channels> 
 <channel>
 <name>[COLOR green]Infantil[/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://utopiainfantil.files.wordpress.com/2011/09/cineg2010061.jpg</thumbnail>
+<fanart>https://peliculasinfantilesdisney.files.wordpress.com/2014/08/disney_pixar_grandes_exitos-frontal-e1409148944171.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Infantil.xml</externallink>
 </channel>
 </channels>

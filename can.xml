@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>[COLOR yellow]Canales Tv[/COLOR]</name>
+<thumbnail>https://hdfull.me/tthumb/172x265/show_c0788a341a6d20b2b9aa8922d25936e4.jpg</thumbnail>
+<fanart>https://hdfull.me/fanart/show_c0788a341a6d20b2b9aa8922d25936e4.jpg</fanart>
+<items>
+
+
+<item>
+<title>[COLOR yellow][/COLOR]</title>
+<info></info> 
+<link>http://about.me/adryan</link></item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Paramount Channel HD [COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/330.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] MLB FHD [COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/36.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Paramount Channel HD [COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/330.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Cine Granada [COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/24.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] ESPN HD[COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/721.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] NBA FHD[COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/775.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] TV Publica[COLOR red] - Sportdevil[/COLOR]</title>
+<F4M>http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/804.m3u8</F4M>
+<referer>https://telerium.tv/</referer>
+<thumbnail></thumbnail>
+</item>

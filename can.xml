@@ -60,3 +60,24 @@
 <referer>https://telerium.tv/</referer>
 <thumbnail></thumbnail>
 </item>
+
+  <item>
+<title>[COLOR yellow]TV PUBLICA[/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<urlsolve>https://www.youtube.com/watch?v=gDjglU2RukM</urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]TN EN VIVO 24H[/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<urlsolve>https://www.youtube.com/watch?v=-1xif50QMr4</urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]24hrs EN VIVO Canal Verte [/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<urlsolve>https://www.youtube.com/watch?v=p6Wf2O7S59s</urlsolve>
+</item>

@@ -87,3 +87,16 @@
 <externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/can.xml</externallink>
 </channel>
 </channels>
+ 
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR cyan][COLOR  yellow]•  [/COLOR] canales tv arentina[/COLOR]</name>
+<description>En este espacio podras disfrutar de peliculas.</description>
+<thumbnail>http://hotter.one/images/kamera.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/can.xml</externallink>
+</channel>
+</channels>

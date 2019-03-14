@@ -10,6 +10,18 @@
 </channels>
 
 
+<channels>
+ 
+<channel>
+<name>[COLOR brown]Manos A La Obra[/COLOR]</name>
+<thumbnail>https://hdfull.me/tthumb/172x265/show_70f3d81d269a1e78ba05e1711dac27f7.jpg</thumbnail>
+<fanart>https://hdfull.me/tthumb/172x265/show_70f3d81d269a1e78ba05e1711dac27f7.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/manol.xml</externallink>
+</channel>
+</channels>
+
+
 <channels> 
 <channel>
 <name>[COLOR red]Dos Hombres Y Medio[/COLOR][COLOR orange]Two and a Half Men[/COLOR]</name>

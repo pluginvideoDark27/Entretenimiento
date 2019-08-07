@@ -1,91 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channel>
-<name>[COLOR orange]Aquí no Hay[/COLOR][COLOR gold]Quien Viva[/COLOR]</name>
-<thumbnail>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</thumbnail>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<items>
-          
-<item>
-<title>[COLOR yellow]Aqui No Hay Quien Viva_101 - Erase Una Mudanza[/COLOR]</title>
+<name>[COLOR orange]Aqui No Hay Quien Viva[/COLOR]</name>
 <fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
 <thumbnail>https://str21.vidoza.net/i/01/03048/abpx3lnc8es9_x.jpg</thumbnail>
-<urlsolve>https://vidoza.net/abpx3lnc8es9.html</urlsolve>
-</item>
+<items>
 
+<channels>
 <item>
-<title>[COLOR yellow]Aqui No Hay Quien Viva_102 - erase Una Reforma[/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail>https://content.fruithosted.net/splash/efntmfpslamldpdr/sqrermrmdlpaqntr.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/efntmfpslamldpdr/Aqui-no-hay-quien-viva-1x02_avi_mp4</urlsolve>
+<info>[COLOR orange]la Tierra en una cápsula durante una noche tormentosa. Sin saber nada de su pasado, un anciano lo cuidó como su nieto hasta los ocho años. Después de morir su abuelo, Goku accede a la Kame House, lugar donde un estrambótico anciano le convertirá en un campeón de artes marciales.[/COLOR]</info>
+<title>[COLOR blue]TEMPORADA 1[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/aqui%20no%20hay.xml</externallink>
 </item>
-
-<item>
-<title>[COLOR yellow]Aqui No Hay Quien Viva_103 - Erase un Reciclaje[/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail>https://content.fruithosted.net/splash/mnflakfcmdcndsrm/ndnfpfqbbkostqrs.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/mnflakfcmdcndsrm/Aqui-no-hay-quien-viva-1x03_avi_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Aqui No Hay Quien Viva_104 - Erase Un Rumor[/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail>https://content.fruithosted.net/splash/feskkltnskbambtl/ptkfecsoeppassbn.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/feskkltnskbambtl/Aqui-no-hay-quien-viva-1x04_avi_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Aqui No Hay Quien Viva_105 - Erase Un Niño[/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail>https://str10.vidoza.net/i/01/03084/64rbnywk25cw_x.jpg</thumbnail>
-<urlsolve>https://vidoza.net/64rbnywk25cw.html</urlsolve>
-</item>
- 
-<item>
-<title>[COLOR yellow]Aqui No Hay Quien Viva_106 - Erase Un Resbalon[/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail>https://str03.vidoza.net/i/08/03084/7e43ycihg8n0_x.jpg</thumbnail>
-<urlsolve>https://vidoza.net/7e43ycihg8n0.html</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow][/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
- 
-<item>
-<title>[COLOR yellow][/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow][/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
- 
-<item>
-<title>[COLOR yellow][/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow][/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
- 
-<item>
-<title>[COLOR yellow][/COLOR]</title>
-<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
-<thumbnail></thumbnail>
-<urlsolve></urlsolve>
-</item>
+</channels>

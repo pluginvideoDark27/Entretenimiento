@@ -27,7 +27,7 @@
 <channels>
  
 <channel>
-<name>[COLOR red][/COLOR]Dark-side 0.2.7[COLOR dark red]                                            Update:[/COLOR][COLOR red] 23[/COLOR]-Febrero-2019[COLOR dark blue][COLOR  black][/COLOR]</name>
+<name>[COLOR red][/COLOR]Dark-side 0.3.1[COLOR dark red]                                            Update:[/COLOR][COLOR red] 10[/COLOR]-Agosto-2019[COLOR dark blue][COLOR  black][/COLOR]</name>
 <description>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva. Y también las mejores recetas de cocina</description>
 <thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
 <fanart>https://cdn.atomix.vg/wp-content/uploads/2016/11/darth-vader-imagenes.jpg</fanart>
@@ -54,7 +54,7 @@
 <channels>
  
 <channel>
-<name>[COLOR brown][COLOR  red]•  [/COLOR] Series Español[/COLOR]</name>
+<name>[COLOR brown]Series Español[/COLOR]</name>
 <description>En este espacio podras disfrutar de series.</description>
 <thumbnail>http://hotter.one/images/kamera.png</thumbnail>
 <fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
@@ -67,7 +67,7 @@
 <channels>
  
 <channel>
-<name>[COLOR white][COLOR  yellow]•  [/COLOR] Cocina[/COLOR]</name>
+<name>[COLOR white]Cocina[/COLOR]</name>
 <description>En este espacio podras disfrutar de grandes recetas de cocina.</description>
 <thumbnail>https://image.flaticon.com/icons/png/512/410/410375.png</thumbnail>
 <fanart>https://st2.depositphotos.com/6628792/9629/v/950/depositphotos_96299852-stock-illustration-kitchen-chef-icon.jpg</fanart>
@@ -76,27 +76,13 @@
 </channel>
 </channels>
 
-<channels>
+ <channels>
  
 <channel>
-<name>[COLOR cyan][COLOR  yellow]•  [/COLOR] canales tv[/COLOR]</name>
-<description>En este espacio podras disfrutar de peliculas.</description>
-<thumbnail>http://hotter.one/images/kamera.png</thumbnail>
-<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/can.xml</externallink>
-</channel>
-</channels>
- 
- 
-<channels>
- 
-<channel>
-<name>[COLOR cyan][COLOR  yellow]•  [/COLOR] canales tv arentina[/COLOR]</name>
-<description>En este espacio podras disfrutar de peliculas.</description>
-<thumbnail>http://hotter.one/images/kamera.png</thumbnail>
-<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/can.xml</externallink>
+<name>[COLOR green]Videos De Musica [/COLOR]</name>
+<description>En este espacio podras disfrutar de Los Mejores Videoclip.</description>
+<thumbnail>https://png.pngtree.com/element_origin_min_pic/16/08/30/2057c5817bcf859.jpg</thumbnail>
+<fanart>https://png.pngtree.com/element_origin_min_pic/16/08/30/2057c5817bcf859.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Musc.xml</externallink>
 </channel>
 </channels>

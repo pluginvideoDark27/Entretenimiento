@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 
+import re, base64, urllib, urlparse
+
+from platformcode import config, logger
+from core.item import Item
+from core import httptools, scrapertools, jsontools, servertools, tmdb
+
+
 host = "https://hdfull.me"
 
 perpage = 20 # preferiblemente un múltiplo de los elementos que salen en la web (40) para que la subpaginación interna no se descompense

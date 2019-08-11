@@ -76,13 +76,14 @@
 </channel>
 </channels>
 
- <channels>
+<channels>
  
 <channel>
-<name>[COLOR green]Videos De Musica [/COLOR]</name>
-<description>En este espacio podras disfrutar de Los Mejores Videoclip.</description>
-<thumbnail>https://png.pngtree.com/element_origin_min_pic/16/08/30/2057c5817bcf859.jpg</thumbnail>
-<fanart>https://png.pngtree.com/element_origin_min_pic/16/08/30/2057c5817bcf859.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Musc.xml</externallink>
+<name>[COLOR green]HDFULL.ME[/COLOR]</name>
+<description>En este espacio podras disfrutar de Peliculas Y Series</description>
+<thumbnail>https://hdfull.me/templates/hdfull/images/logo.png</thumbnail>
+<fanart>https://www.tuexpertomovil.com/wp-content/uploads/2013/06/moviles-con-pantalla-fullhd-1280x720.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/full.xml</externallink>
 </channel>
 </channels>
+

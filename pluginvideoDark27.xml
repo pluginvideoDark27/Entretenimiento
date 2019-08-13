@@ -79,11 +79,11 @@
 <channels>
  
 <channel>
-<name>[COLOR green]HDFULL.ME[/COLOR]</name>
+<name>[COLOR green]Comedia y Diversion[/COLOR]</name>
 <description>En este espacio podras disfrutar de Peliculas Y Series</description>
-<thumbnail>https://hdfull.me/templates/hdfull/images/logo.png</thumbnail>
-<fanart>https://www.tuexpertomovil.com/wp-content/uploads/2013/06/moviles-con-pantalla-fullhd-1280x720.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/hdfull.xml</externallink>
+<thumbnail>https://img13.androidappsapk.co/300/1/0/8/videos.monologos.png</thumbnail>
+<fanart>https://salamancabuenasnoticias.com/wp-content/uploads/2018/03/Monologos-microfono.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/comicos.xml</externallink>
 </channel>
 </channels>
 

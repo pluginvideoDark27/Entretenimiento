@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channel>
+<name>[COLOR orange]Monologos[/COLOR]</name>
+<fanart>https://salamancabuenasnoticias.com/wp-content/uploads/2018/03/Monologos-microfono.jpg</fanart>
+<thumbnail>https://img13.androidappsapk.co/300/1/0/8/videos.monologos.png</thumbnail>
+<items>
+
+<channels>
+<item>
+<info>[COLOR orange]Aquí podras encontrar los mejores monologos. Con los que te moriras de risa[/COLOR]</info>
+<title>[COLOR blue]Monologos[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/monolo.xml</externallink>
+</item>
+</channels>
+
+<channel>
+<name>[COLOR orange]Chistes[/COLOR]</name>
+<fanart>https://salamancabuenasnoticias.com/wp-content/uploads/2018/03/Monologos-microfono.jpg</fanart>
+<thumbnail>https://img13.androidappsapk.co/300/1/0/8/videos.monologos.png</thumbnail>
+<items>
+
+<channels>
+<item>
+<info>[COLOR orange]Aquí podras encontrar los mejores Chistes. Con los que te moriras de risa[/COLOR]</info>
+<title>[COLOR blue]Chistes[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/chist.xml</externallink>
+</item>
+</channels>
+
+
+<channel>
+<name>[COLOR orange]Los mejores Momentos Del Grand Prix Del Verano[/COLOR]</name>
+<fanart>https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/06/24/Recortada/img_mpuelles_20180624-210303_imagenes_lv_otras_fuentes_ramon_garcia_grand_prix-kYMD-U45379724785jaC-992x558@LaVanguardia-Web.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1106462198572949504/8DRUos6K_400x400.png</thumbnail>
+<items>
+
+<channels>
+<item>
+<info>[COLOR orange]Aquí podras encontrar los mejores Momentos Del Grand Prix Del Verano. Con los que te moriras de risa[/COLOR]</info>
+<title>[COLOR blue]Los mejores Momentos Del Grand Prix Del Verano[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/prix.xml</externallink>
+</item>
+</channels>

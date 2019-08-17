@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+<info>[COLOR aquamarine]Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y lo mejor en comedia y entretenimiento. Y también las mejores recetas de cocina.(Actualizado el 17 de agosto de 2019)[/COLOR]</info>
+<channels_info>
+<title>[COLOR red]plugin.video.Dark-side[/COLOR]</title>
+<genre>ONLINE</genre>
+<thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-BBHY85-JjPM/UY5bCNjzRPI/AAAAAAAAXMY/Yluj2oyuiX8/s1600/noche_oscura2.jpg</fanart>
+<date>23/02/2019</date>
+<credits>Gracias a plugin.video.Dark-side</credits>
+</channels_info>
+<channels>
+
+ 
+<channel>
+<info>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y lo mejor en comedia y entretenimiento. Y también las mejores recetas de cocina.(Actualizado el 17 de agosto de 2019)[/COLOR]</info>
+<name>[COLOR black] plugin.video.Dark-side version 0.3.1[/COLOR]</name>
+<thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-BBHY85-JjPM/UY5bCNjzRPI/AAAAAAAAXMY/Yluj2oyuiX8/s1600/noche_oscura2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com</externallink>
+</channel>
+
+ 
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR red]Dark-side 0.3.1 Update:[/COLOR][COLOR red] 17-Agosto-2019[/COLOR]</name>
+<info>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y lo mejor en comedia y entretenimiento. Y también las mejores recetas de cocina.</info>
+<thumbnail>https://i.etsystatic.com/10814701/r/il/410bc8/854020213/il_fullxfull.854020213_sz4y.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-BBHY85-JjPM/UY5bCNjzRPI/AAAAAAAAXMY/Yluj2oyuiX8/s1600/noche_oscura2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com</externallink>
+</channel>
+</channels>
+
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR aquamarine]Películas [/COLOR]</name>
+<info>En este espacio podras disfrutar de peliculas.</info>
+<thumbnail>https://maristasburgos.org/sites/default/files/styles/large/public/field/image/imagen%20cine.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Peliculas.xml</externallink>
+</channel>
+</channels>
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR aquamarine]Series Español[/COLOR]</name>
+<info>En este espacio podras disfrutar de series.</info>
+<thumbnail>https://peoplepng.com/wp-content/uploads/2019/02/series-png-3.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/carpeta-de-la-pel%C3%ADcula-con-un-carrete-de-pel%C3%ADculas-icono-d-aislado-33598778.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/Series.xml</externallink>
+</channel>
+</channels>
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR aquamarine]Cocina[/COLOR]</name>
+<info>En este espacio podras disfrutar de grandes recetas de cocina.</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fxemoji_u1F373.svg/768px-Fxemoji_u1F373.svg.png</thumbnail>
+<fanart>https://st2.depositphotos.com/6628792/9629/v/950/depositphotos_96299852-stock-illustration-kitchen-chef-icon.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/KispTmz7</externallink>
+</channel>
+</channels>
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR aquamarine]Comedia & Diversion[/COLOR]</name>
+<info>En este espacio podras disfrutar de lo mejor en comedia y entretenimiento.</info>
+<thumbnail>https://img13.androidappsapk.co/300/1/0/8/videos.monologos.png</thumbnail>
+<fanart>https://salamancabuenasnoticias.com/wp-content/uploads/2018/03/Monologos-microfono.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/comico.xml</externallink>
+</channel>
+</channels>
+
+
+<channels>
+ 
+<channel>
+<name>[COLOR aquamarine]Documentales[/COLOR]</name>
+<info>En este espacio podras disfrutar de lo mejor en Documentales</info>
+<thumbnail>https://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-nSBuDM5bbHM/VAWRl5CJ2NI/AAAAAAAAAaY/Saqo3Q1NzBA/s1600/787B16382.png</fanart>
+<externallink>http://fdsfsfsfsfs</externallink>
+</channel>
+</channels>

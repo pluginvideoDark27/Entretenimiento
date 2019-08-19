@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channel>
+<name>[COLOR red]Saga Star Wars[/COLOR]</name>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png</fanart>
+<items>
+
+
+<item><title>[COLOR red]Saga Star Wars[/COLOR]</title>  
+<urlsolve>http://about.me/adryan</urlsolve></item>
+
+
+<item>
+<title>[COLOR yellow]Star Wars 1 La Amenaza Fantasma[/COLOR]</title>
+<fanart>https://javipas.com/wp-content/uploads/2015/10/starwarsphantommance.jpg</fanart>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/86/33/09/19835623.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 2 El-Ataque-De-Los-Clones[/COLOR]</title>
+<fanart>https://http2.mlstatic.com/star-wars-ii-el-ataque-de-los-clones-edicion-2-discos-dvd-D_NQ_NP_611721-MLA20844413492_072016-F.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51BGV8AJ4RL._SY445_.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 3 La Venganza De Los Sith[/COLOR]</title>
+<fanart>https://album.mediaset.es/eimg/2016/12/27/OrHooDImrh5H4aWI9i4Vp3.jpg</fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/es.starwars/images/f/fa/Ep3_poster.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 4 Una Nueva Esperanza[/COLOR]</title>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/81ae8A9aEYL._SL1500_.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91H91NbI2xL._SY445_.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 5 El Imperio Contraataca[/COLOR]</title>
+<fanart>https://stmed.net/sites/default/files/star-wars-episode-v%3A-the-empire-strikes-back-wallpapers-29928-6512121.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91%2BCydthCeL._SY445_.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 6 El Retorno de Jedi[/COLOR]</title>
+<fanart>http://observandocine.com/wp-content/uploads/2015/12/star_wars_vi___return_of_the_jedi___movie_poster_by_nei1b-d5t3b8d.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51dde0qWc6L._SY445_.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 7 El Despertar De La Fuerza[/COLOR]</title>
+<fanart>https://i.ytimg.com/vi/FHbnQ5DUUF4/maxresdefault.jpg</fanart>
+<thumbnail>https://i.blogs.es/4449ad/star-wars-vii-el-despertar-de-la-fuerza/450_1000.jpeg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+<title>[COLOR yellow]Star Wars 8 Los Últimos Jedi[/COLOR]</title>
+<fanart>http://www.mubis.es/media/users/13585/194706/imagen-star-wars-viii-los-ultimos-jedi-espanol-original.jpg</fanart>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/pictures/17/10/10/09/18/3077483.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>

@@ -11,6 +11,18 @@
 <urlsolve>http://about.me/adryan</urlsolve></item>
 
 
+ <channels>
+ 
+<channel>
+<name>[COLOR aquamarine]Saga Star Wars[/COLOR]</name>
+<info>[COLOR red]Star Wars es una franquicia compuesta primordialmente de una serie de películas concebidas por el cineasta estadounidense George Lucas, y producidas y distribuidas por The Walt Disney Company a partir de 2012.[/COLOR]</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pluginvideoDark27/Entretenimiento/master/star.xml</externallink>
+</channel>
+</channels>
+ 
 
 
 <item>
@@ -182,62 +194,6 @@
 <fanart>https://vignette.wikia.nocookie.net/bibliotecadelatierramedia/images/1/16/Elretornodelrey.jpg</fanart>
 <thumbnail>https://str03.vidoza.net/i/12/03062/nke081rxef2f_x.jpg</thumbnail>
 <urlsolve>https://vidoza.net/nke081rxef2f.html</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 1 La Amenaza Fantasma[/COLOR]</title>
-<fanart>https://javipas.com/wp-content/uploads/2015/10/starwarsphantommance.jpg</fanart>
-<thumbnail>http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/86/33/09/19835623.jpg</thumbnail>
-<urlsolve>https://streamango.com/f/mdnotfmlaqqdtslo/Episodio_1_La_amenaza_fantasma_MicroHD_www_newpct_com_toni32_mkv</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 2 El-Ataque-De-Los-Clones[/COLOR]</title>
-<fanart>https://http2.mlstatic.com/star-wars-ii-el-ataque-de-los-clones-edicion-2-discos-dvd-D_NQ_NP_611721-MLA20844413492_072016-F.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51BGV8AJ4RL._SY445_.jpg</thumbnail>
-<urlsolve>https://streamango.com/f/sapntpnoladkocfm/Episodio_2_El_ataque_de_los_clones_www_newpct_com_toni32_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 3 La Venganza De Los Sith[/COLOR]</title>
-<fanart>https://album.mediaset.es/eimg/2016/12/27/OrHooDImrh5H4aWI9i4Vp3.jpg</fanart>
-<thumbnail>https://vignette.wikia.nocookie.net/es.starwars/images/f/fa/Ep3_poster.jpg</thumbnail>
-<urlsolve>https://streamango.com/f/seoqfaonmnterlrd/Episodio_3_La_Venganza_de_los_Sith_www_newpct_com_toni32_mkv_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 4 Una Nueva Esperanza[/COLOR]</title>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/81ae8A9aEYL._SL1500_.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91H91NbI2xL._SY445_.jpg</thumbnail>
-<urlsolve>https://streamcherry.com/embed/ebonpbfqkekmtnkc/Episodio_4_Una_nueva_esperanza_www_newpct_com_toni32_mkv_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 5 El Imperio Contraataca[/COLOR]</title>
-<fanart>https://stmed.net/sites/default/files/star-wars-episode-v%3A-the-empire-strikes-back-wallpapers-29928-6512121.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91%2BCydthCeL._SY445_.jpg</thumbnail>
-<urlsolve>https://streamango.com/embed/nabkpspcdedcoclk/Episodio_5_El_imperio_contraataca_www_newpct_com_toni32_mkv_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 6 El Retorno de Jedi[/COLOR]</title>
-<fanart>http://observandocine.com/wp-content/uploads/2015/12/star_wars_vi___return_of_the_jedi___movie_poster_by_nei1b-d5t3b8d.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51dde0qWc6L._SY445_.jpg</thumbnail>
-<urlsolve>https://streamcherry.com/embed/cdfemkndambtskor/Episodio_6_El_retorno_del_Jedi_www_newpct_com_toni32_mkv_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 7 El Despertar De La Fuerza[/COLOR]</title>
-<fanart>https://i.ytimg.com/vi/FHbnQ5DUUF4/maxresdefault.jpg</fanart>
-<thumbnail>https://i.blogs.es/4449ad/star-wars-vii-el-despertar-de-la-fuerza/450_1000.jpeg</thumbnail>
-<urlsolve>https://streamcherry.com/embed/fpntlqpkccnrrrck/Star_Wars7_1080_Cast_mp4</urlsolve>
-</item>
-
-<item>
-<title>[COLOR yellow]Star Wars 8 Los Últimos Jedi[/COLOR]</title>
-<fanart>http://www.mubis.es/media/users/13585/194706/imagen-star-wars-viii-los-ultimos-jedi-espanol-original.jpg</fanart>
-<thumbnail>http://es.web.img2.acsta.net/c_215_290/pictures/17/10/10/09/18/3077483.jpg</thumbnail>
-<urlsolve>https://streamango.com/f/dkabtbanqdkkedea/Star_Wars_Los_Ultimos_Jedi_BluRay_720p_X264_MKV_AC3_5_1_Castellano_-_English_-_Sub_ES_2018_mkv_mp4</urlsolve>
 </item>
 
 <item>
